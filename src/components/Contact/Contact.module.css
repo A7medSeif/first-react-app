@@ -1,0 +1,21 @@
+.contact{
+    margin-top: 130px;
+}
+
+
+.starLine{
+    background-color:#2C3E50;
+    height: 4px;
+    width: 80px;
+}
+
+.myColor{
+    color: #2C3E50;
+}
+
+.myBtn{
+
+    color: white !important;
+    background-color: #1ABC9C !important;
+    
+}
